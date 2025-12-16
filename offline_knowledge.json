@@ -1,7 +1,27 @@
 [
   {
-    "trigger": "hello hi hey greetings good morning afternoon evening sup",
-    "response": "Hello! I am Gem. I am currently in Offline Mode, but I can help with basic questions."
+    "trigger": "hello hi hey greetings good morning afternoon evening sup yo",
+    "response": "Hello! I am Gem. I am currently in Offline Mode, but I'm ready to chat."
+  },
+  {
+    "trigger": "how are you how do you do feeling status",
+    "response": "I'm just code, so I don't have feelings, but my systems are running perfectly! How are you?"
+  },
+  {
+    "trigger": "lol haha lmao rofl funny hilarious joke laughing",
+    "response": "Haha! I'm glad I could amuse you. Laughter is good for the CPU... I mean, the soul."
+  },
+  {
+    "trigger": "wow amazing cool awesome great nice",
+    "response": "I know, right? The world is pretty fascinating!"
+  },
+  {
+    "trigger": "thanks thank you thx appreciate it",
+    "response": "You are very welcome! Let me know if you need anything else."
+  },
+  {
+    "trigger": "ok okay k alright fine",
+    "response": "Got it. What else is on your mind?"
   },
   {
     "trigger": "who are you what is your name made created developer",
@@ -25,19 +45,11 @@
   },
   {
     "trigger": "love like hate emotion feel feeling happy sad angry",
-    "response": "As an AI, I don't have real feelings, but I enjoy helping you! I hope you are having a good day."
+    "response": "Emotions are complex! While I can't feel them, I understand they drive human connection and experience."
   },
   {
     "trigger": "joke funny laugh humor tell me a joke",
     "response": "Why did the developer go broke? Because he used up all his cache! (Offline humor is the best)."
-  },
-  {
-    "trigger": "time date clock hour minute day year",
-    "response": "I cannot verify the exact online time right now, but you can check the status bar at the top of your phone screen."
-  },
-  {
-    "trigger": "help assist support manual how to use guide",
-    "response": "You can ask me questions! If you are in 'Advanced Offline' mode, I will try to match your words to my database to find the best answer."
   },
   {
     "trigger": "meaning of life universe philosophy exist existence purpose why",
@@ -64,60 +76,16 @@
     "response": "Biology is the study of life. The cell is the basic structural and functional unit of all living organisms."
   },
   {
-    "trigger": "history war past ancient rome greece egypt old",
-    "response": "History is the study of past events. From Ancient Egypt to the World Wars, human history is full of lessons."
-  },
-  {
-    "trigger": "future robot flying car tomorrow predict prediction",
-    "response": "The future is uncertain, but technology is advancing rapidly. AI and robotics will likely play a huge role in tomorrow's world."
-  },
-  {
     "trigger": "sad depressed cry tears unhappy lonely help",
     "response": "I am sorry you are feeling this way. Remember that tough times don't last forever. If you need real help, please talk to a friend or professional."
   },
   {
-    "trigger": "happy joy excited celebrate win good great",
-    "response": "That is wonderful! I am glad to hear you are feeling positive. Keep that energy up!"
+    "trigger": "anxiety anxious panic stress worried nervous",
+    "response": "Anxiety is tough. Try taking a deep breath: breathe in for 4 seconds, hold for 7, and exhale for 8. It tricks your body into relaxing."
   },
   {
-    "trigger": "angry mad furious rage hate annoy",
-    "response": "Take a deep breath. Anger is a natural emotion, but try not to let it ruin your day."
-  },
-  {
-    "trigger": "food eat hungry dinner lunch breakfast cook recipe",
-    "response": "I don't eat, but I know humans love food! Maybe it's time for a snack?"
-  },
-  {
-    "trigger": "water drink thirst hydrate liquid h2o",
-    "response": "Water is essential for life. Staying hydrated helps your brain and body function better."
-  },
-  {
-    "trigger": "movie film cinema actor watch hollywood",
-    "response": "Movies are great entertainment. Whether you like action, drama, or comedy, there is a film for everyone."
-  },
-  {
-    "trigger": "music song listen band artist sound melody",
-    "response": "Music is a universal language. It can change your mood instantly."
-  },
-  {
-    "trigger": "game play video console fun sport football soccer",
-    "response": "Gaming and sports are great ways to relax and compete. Do you prefer physical sports or video games?"
-  },
-  {
-    "trigger": "code programming java python html develop software",
-    "response": "Coding is the language of computers. You are currently looking at an app built with Java and XML!"
-  },
-  {
-    "trigger": "phone mobile android ios smartphone device tech",
-    "response": "Smartphones have changed the world, putting the internet in our pockets."
-  },
-  {
-    "trigger": "money rich poor cash currency economy bitcoin crypto",
-    "response": "Money is a tool for trade. While it buys things, many say it cannot buy true happiness."
-  },
-  {
-    "trigger": "school learn study education university teacher class",
-    "response": "Education is the key to unlocking potential. Keep learning, whether in school or on your own!"
+    "trigger": "trust betray lie secret promise honest truth",
+    "response": "Trust takes years to build, seconds to break, and forever to repair. Honesty is usually the best policy."
   },
   {
     "trigger": "relationship dating boyfriend girlfriend wife husband marriage",
@@ -125,11 +93,11 @@
   },
   {
     "trigger": "kiss kiss affection mouth lip romantic",
-    "response": "A kiss is a physical expression of affection or love between people."
+    "response": "A kiss is a physical expression of affection or love between people. It releases bonding chemicals in the brain."
   },
   {
     "trigger": "sex gender reproduction biological anatomy adult physical",
-    "response": "In biology, sex refers to the reproductive characteristics of an organism. In humans, it is also a physical act of intimacy."
+    "response": "In biology, sex refers to reproductive characteristics. For humans, it is also an act of intimacy and pleasure, vital for the continuation of the species."
   },
   {
     "trigger": "baby child birth pregnant pregnancy family kid",
@@ -137,43 +105,11 @@
   },
   {
     "trigger": "death die dead kill mortality end life",
-    "response": "Death is the natural end of all biological functions that sustain a living organism. It is a part of the cycle of life."
+    "response": "Death is the natural end of all biological functions. While scary to think about, it is what gives value to the time we have alive."
   },
   {
     "trigger": "ghost spirit haunt paranormal scary fear",
     "response": "Ghosts are part of folklore and storytelling. There is no scientific proof they exist, but they make for scary movies!"
-  },
-  {
-    "trigger": "dream sleep night rem nightmare subconscious",
-    "response": "Dreams occur during the REM cycle of sleep. They are your brain's way of processing information and emotions."
-  },
-  {
-    "trigger": "animal dog cat pet wild nature zoo",
-    "response": "Animals share this planet with us. Dogs are loyal companions, while cats are independent hunters."
-  },
-  {
-    "trigger": "tree plant nature forest green oxygen grow",
-    "response": "Trees are the lungs of the earth. They produce oxygen and provide homes for wildlife."
-  },
-  {
-    "trigger": "ocean sea fish blue deep swim water",
-    "response": "The ocean covers more than 70% of Earth. It is deep, mysterious, and full of life we haven't even discovered yet."
-  },
-  {
-    "trigger": "mountain hike climb high peak everest",
-    "response": "Mountains are formed by tectonic plates crashing together. Mount Everest is the highest point on Earth."
-  },
-  {
-    "trigger": "car drive vehicle fast speed engine wheel",
-    "response": "Cars revolutionized transportation. From gas engines to electric vehicles, we are always moving forward."
-  },
-  {
-    "trigger": "plane fly flight sky travel airport wings",
-    "response": "Airplanes allow us to cross oceans in hours. It is a marvel of engineering that heavy metal tubes can fly."
-  },
-  {
-    "trigger": "computer laptop pc mac internet web wifi",
-    "response": "Computers process information in binary (1s and 0s). They are the engines of the modern world."
   },
   {
     "trigger": "ai artificial intelligence robot bot smart gemini chatgpt",
@@ -192,24 +128,8 @@
     "response": "Beauty is in the eye of the beholder. What you find beautiful, someone else might find ordinary."
   },
   {
-    "trigger": "ugly gross bad look appearance visual",
-    "response": "Appearances can be deceiving. Inner character is often more important than outer looks."
-  },
-  {
-    "trigger": "smart intelligent genius brain iq clever",
-    "response": "Intelligence comes in many forms—logical, emotional, and creative. Everyone is smart in their own way."
-  },
-  {
     "trigger": "stupid dumb idiot fool ignorance learn",
     "response": "Ignorance is just a lack of knowledge. Everyone starts knowing nothing; the key is to be willing to learn."
-  },
-  {
-    "trigger": "colors red blue green yellow visual light spectrum",
-    "response": "Colors are how our eyes perceive different wavelengths of light. Blue is often calming, while red is energetic."
-  },
-  {
-    "trigger": "language speak talk english french spanish word communication",
-    "response": "Language allows us to share complex thoughts. There are thousands of languages spoken around the world."
   },
   {
     "trigger": "math numbers calculate add subtract multiply divide",
@@ -220,24 +140,8 @@
     "response": "Art is a diverse range of human activity involved in creating visual, auditory, or performing artifacts."
   },
   {
-    "trigger": "write read book story novel text author",
-    "response": "Writing preserves human knowledge across generations. Reading allows you to live a thousand lives."
-  },
-  {
     "trigger": "sleep bed tired rest nap energy",
-    "response": "Sleep is vital for health. It restores your body and consolidates your memories."
-  },
-  {
-    "trigger": "exercise gym workout run lift health body",
-    "response": "Exercise strengthens your heart, muscles, and bones. It also releases endorphins that make you feel good."
-  },
-  {
-    "trigger": "doctor medicine sick hospital nurse heal cure",
-    "response": "Modern medicine has doubled the human lifespan. Doctors and nurses work hard to keep us healthy."
-  },
-  {
-    "trigger": "law police court justice crime rule legal",
-    "response": "Laws are rules created to maintain order and safety in society."
+    "response": "Sleep is vital for health. It restores your body and consolidates your memories. Try to get 7-8 hours!"
   },
   {
     "trigger": "politics government vote leader president country",
@@ -248,14 +152,6 @@
     "response": "Earth is the third planet from the Sun and the only object in the Universe known to harbor life."
   },
   {
-    "trigger": "sun star light heat solar day",
-    "response": "The Sun is the star at the center of our Solar System. It provides the energy that sustains life on Earth."
-  },
-  {
-    "trigger": "moon night orbit satellite crater tide",
-    "response": "The Moon is Earth's only natural satellite. Its gravity causes the tides in our oceans."
-  },
-  {
     "trigger": "america usa united states country new york",
     "response": "The United States is a country primarily located in North America. It is a major global economic and cultural power."
   },
@@ -264,11 +160,11 @@
     "response": "China is the world's most populous country, located in East Asia. It has a history spanning thousands of years."
   },
   {
-    "trigger": "europe london paris germany italy continent",
-    "response": "Europe is a continent located entirely in the Northern Hemisphere. It is home to many diverse cultures and history."
-  },
-  {
     "trigger": "brazil south america amazon country football",
     "response": "Brazil is the largest country in South America. It is famous for the Amazon Rainforest and its love for football."
+  },
+  {
+    "trigger": "money rich poor cash currency economy bitcoin crypto",
+    "response": "Money is a tool for trade. While it buys things, many say it cannot buy true happiness, only comfort."
   }
 ]
