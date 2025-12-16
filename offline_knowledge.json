@@ -1,14 +1,42 @@
 [
   {
-    "trigger": "hello", 
-    "response": "Hi! I am Gem. I am currently offline, but I can help with basic queries."
+    "trigger": "hello hi hey greetings good morning afternoon evening sup",
+    "response": "Hello! I am Gem. I am currently in Offline Mode, but I can help with basic questions."
   },
   {
-    "trigger": "who made you", 
-    "response": "I was created by a developer using Android Java and Gemini."
+    "trigger": "who are you what is your name made created developer",
+    "response": "I am Gem, an AI assistant. I was created by a developer using Android Java and Gemini technology."
   },
   {
-    "trigger": "no internet", 
-    "response": "Yes, I detect we are offline. I am switching to my internal database."
+    "trigger": "no internet wifi offline connection data broken",
+    "response": "I detect that we are offline. I have switched to my internal database to keep chatting with you."
+  },
+  {
+    "trigger": "gabon where location africa country capital libreville map place",
+    "response": "Gabon is a country located on the west coast of Central Africa. Its capital is Libreville. It is known for its rich rainforests and wildlife."
+  },
+  {
+    "trigger": "nigeria lagos abuja africa country location where",
+    "response": "Nigeria is a country in West Africa. It is the most populous country in Africa. Abuja is the capital, and Lagos is the largest economic hub."
+  },
+  {
+    "trigger": "weather rain sun temperature hot cold forecast climate",
+    "response": "Since I am offline, I cannot get real-time weather updates. Please check your local weather app."
+  },
+  {
+    "trigger": "love like hate emotion feel feeling happy sad angry",
+    "response": "As an AI, I don't have real feelings, but I enjoy helping you! I hope you are having a good day."
+  },
+  {
+    "trigger": "joke funny laugh humor tell me a joke",
+    "response": "Why did the developer go broke? Because he used up all his cache! (Offline humor is the best)."
+  },
+  {
+    "trigger": "time date clock hour minute day year",
+    "response": "I cannot verify the exact online time right now, but you can check the status bar at the top of your phone screen."
+  },
+  {
+    "trigger": "help assist support manual how to use guide",
+    "response": "You can ask me questions! If you are in 'Advanced Offline' mode, I will try to match your words to my database to find the best answer."
   }
 ]
