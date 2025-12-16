@@ -1,0 +1,14 @@
+[
+  {
+    "trigger": "hello", 
+    "response": "Hi! I am Gem. I am currently offline, but I can help with basic queries."
+  },
+  {
+    "trigger": "who made you", 
+    "response": "I was created by a developer using Android Java and Gemini."
+  },
+  {
+    "trigger": "no internet", 
+    "response": "Yes, I detect we are offline. I am switching to my internal database."
+  }
+]
